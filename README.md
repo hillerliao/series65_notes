@@ -2,6 +2,12 @@
 
 此文档用来呈现美国投顾考试复习笔记。
 
+其他格式文档：  
+
+- [Epub格式](https://www.gitbook.com/download/mobi/book/hillerliao/series65-notes)
+- [PDF 格式](https://www.gitbook.com/download/pdf/book/hillerliao/series65-notes)
+- [Mobi格式](https://www.gitbook.com/download/mobi/book/hillerliao/series65-notes)  
+
 如果觉得不错，欢迎赞助，我们可以做得更好。
 
 也可以加我微信一起交流。我的微信： ` hillerliao `
