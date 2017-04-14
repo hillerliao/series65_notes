@@ -1,3 +1,49 @@
 ## Chapter 1 :Economic Factors and Business Information
 
-这是Chapter的简单说明。
+- A. Basic economic concepts     *(6 items)*
+  - 1.business cycles
+  - 2.monetary and fiscal policy
+  - 3.US dollar valuation
+  - 4.inflation/deflation
+  - 5.interest rates and yield curves
+  - 6.economic indicators
+    - a. GDP
+    - b. employment indicators
+    - c. trade deficitd
+    - d. balance of payments
+    - e. CPI
+- B. Financial reporting *（5 items）*
+  - 1.financial statements
+    - a. income statement
+    - b. balance sheet
+    - c. statement of cash flow
+  - 2.financial ratios
+    - a. current ratio
+    - b. quick ratio
+    - c. debt-to-equity ratio
+  - 3. corporate SEC filings
+  - 4. annual reports and prospectuses
+- C. Quantitative methods *（3 items）*
+  - 1.time value of money concepts
+    - a. internal rate of return (IRR)
+    - b. net present value (NPV)
+  - 2.descriptive statistics
+    - a.measures of central tendency (mean, median, mode)
+    - b. range
+    - c. standard deviation
+    - d. Beta and its derivatives
+  - 3.valuation ratios
+    - a. price/earnings
+    - b. price-to-book
+- D. Types of risk *(5 items)*
+  - 1.systematic risk
+    - a. market
+    - b. interest rate
+    - c. inflation
+  - 2.unsystematic risk
+    - a. business
+    - b. regulatory
+    - c. political
+    - d. liquidity
+  - 3.opportunity cost
+  - 4.capital structure including liquidation priority
