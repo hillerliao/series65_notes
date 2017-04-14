@@ -4,7 +4,7 @@
 
 其他格式文档：  
 
-- [Epub格式](https://www.gitbook.com/download/mobi/book/hillerliao/series65-notes)
+- [ePub格式](https://www.gitbook.com/download/mobi/book/hillerliao/series65-notes)
 - [PDF 格式](https://www.gitbook.com/download/pdf/book/hillerliao/series65-notes)
 - [Mobi格式](https://www.gitbook.com/download/mobi/book/hillerliao/series65-notes)  
 
