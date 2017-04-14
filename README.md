@@ -10,7 +10,7 @@
 
 如果觉得不错，欢迎赞助，我们可以做得更好。
 
-也可以加我微信一起交流。我的微信： ` hillerliao `
+欢迎到 [文档交流区](https://www.gitbook.com/book/hillerliao/series65-notes/discussions) 交流，也可以加我微信一起交流。我的微信： ` hillerliao `
 
 ![supportme](https://xqimg.imedao.com/15b69a8643625143feec8380.png!custom.jpg)
 
@@ -19,6 +19,7 @@
 如果您也在备考 Series 65，欢迎贡献您的笔记。
 
 Github 地址：https://github.com/hillerliao/series65_notes  
+如果您不想折腾，也可以直接在 [文档交流区](https://www.gitbook.com/book/hillerliao/series65-notes/discussions) 发布您的笔记，我会吸收到文档里，并标注是您作出的贡献。
 
 #### 题外
 
