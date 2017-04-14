@@ -1,10 +1,18 @@
 ## Series 65 复习笔记
 
-此文档用来呈现美国投顾考试复习笔记。如果觉得不错，欢迎赞助，我们可以做得更好。
+此文档用来呈现美国投顾考试复习笔记。
 
-我的微信： ` hillerliao `
+如果觉得不错，欢迎赞助，我们可以做得更好。
+
+也可以加我微信一起交流。我的微信： ` hillerliao `
 
 ![supportme](https://xqimg.imedao.com/15b69a8643625143feec8380.png!custom.jpg)
+
+#### 一起完善笔记
+
+如果您也在备考 Series 65，欢迎贡献您的笔记。
+
+Github 地址：https://github.com/hillerliao/series65_notes  
 
 #### 题外
 
