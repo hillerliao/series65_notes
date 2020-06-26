@@ -1,5 +1,7 @@
 ## Series 65 复习笔记
 
+update：完整版 https://www.yuque.com/securities/series65notes
+
 此文档用来呈现美国投顾考试复习笔记。
 
 其他格式文档：  
