@@ -22,7 +22,7 @@ update：完整版 https://www.yuque.com/securities/series65notes
 
 如果觉得不错，欢迎扫码赞助，我们可以做得更好。
 
-![supportme](https://xqimg.imedao.com/15b69a8643625143feec8380.png!custom.jpg)
+![](https://raw.githubusercontent.com/hillerliao/img/main/20220918135531.png)
 
 #### 题外备忘
 
